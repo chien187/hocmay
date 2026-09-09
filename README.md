@@ -12,4 +12,4 @@ Dự án này sử dụng mô hình Hồi quy tuyến tính (Linear Regression) 
 2. Chạy file mã nguồn: `python main.py`
 
 ## Thông tin nhánh
-- Phiên bản hiện tại đang chạy trên nhánh: `version 2`
+- Phiên bản hiện tại đang chạy trên nhánh: `version 1`
